@@ -1,0 +1,6 @@
+[1,"=> library(shiny); runApp('decision tree.R')\n\n"]
+[2,"Warning message:\r\npackage 'shiny' was built under R version 4.2.3 \r\n"]
+[2,"Warning: package 'visNetwork' was built under R version 4.2.3\r\n"]
+[2,"Error in \"rpart\" %in% class(object) : object 'pruned_tree' not found\r\nCalls: runApp ... %in% -> visOptions -> %in% -> visTree -> stopifnot -> %in%\r\n"]
+[2,"Execution halted\r\n"]
+[1,"\nShiny application failed (exit status 1).\n\n"]

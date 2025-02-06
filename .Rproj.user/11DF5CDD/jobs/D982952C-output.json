@@ -1,0 +1,4 @@
+[1,"=> shiny::runApp()\n\n"]
+[2,"Loading required package: shiny\r\nWarning: package 'shiny' was built under R version 4.2.3\r\n"]
+[2,"\r\nListening on http://127.0.0.1:6123\r\n"]
+[1,"\nShiny application successfully stopped.\n\n"]

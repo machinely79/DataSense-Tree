@@ -1,0 +1,4 @@
+[1,"=> library(shiny); runApp('test_nebitan.R')\n\n"]
+[2,"\r\nListening on http://127.0.0.1:6355\r\n"]
+[2,"Warning: The select input \"cars\" contains a large number of options; consider using server-side selectize for massively improved performance. See the Details section of the ?selectizeInput help topic.\r\n"]
+[1,"\nShiny application successfully stopped.\n\n"]

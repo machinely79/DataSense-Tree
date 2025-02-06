@@ -1,0 +1,6 @@
+[1,"=> library(shiny); runApp('TEST_PROMJENE_ TIPA_PODATAKA.R')\n\n"]
+[2,"Warning message:\r\npackage 'shiny' was built under R version 4.2.3 \r\n"]
+[2,"\r\nAttaching package: 'dplyr'\r\n\r\nThe following objects are masked from 'package:stats':\r\n\r\n    filter, lag\r\n\r\nThe following objects are masked from 'package:base':\r\n\r\n    intersect, setdiff, setequal, union\r\n\r\nWarning: package 'lubridate' was built under R version 4.2.1\r\n"]
+[2,"\r\nAttaching package: 'lubridate'\r\n\r\nThe following objects are masked from 'package:base':\r\n\r\n    date, intersect, setdiff, union\r\n\r\nWarning: package 'stringr' was built under R version 4.2.1\r\n"]
+[2,"\r\nListening on http://127.0.0.1:4199\r\n"]
+[1,"\nShiny application successfully stopped.\n\n"]

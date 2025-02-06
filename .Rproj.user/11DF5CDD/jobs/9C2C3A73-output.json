@@ -1,0 +1,8 @@
+[1,"=> library(shiny); runApp('TEST_RUN_APP.R')\n\n"]
+[2,"Warning message:\r\npackage 'shiny' was built under R version 4.2.3 \r\n"]
+[2,"\r\nAttaching package: 'dplyr'\r\n\r\nThe following objects are masked from 'package:stats':\r\n\r\n    filter, lag\r\n\r\nThe following objects are masked from 'package:base':\r\n\r\n    intersect, setdiff, setequal, union\r\n\r\nWarning: package 'lubridate' was built under R version 4.2.1\r\n"]
+[2,"\r\nAttaching package: 'lubridate'\r\n\r\nThe following objects are masked from 'package:base':\r\n\r\n    date, intersect, setdiff, union\r\n\r\nWarning: package 'stringr' was built under R version 4.2.1\r\n"]
+[2,"\r\nListening on http://127.0.0.1:5540\r\n"]
+[2,"Warning: All formats failed to parse. No formats found.\r\n"]
+[2,"Warning: Error in : Assigned data `tryCatch(...)` must be compatible with existing data.\r\n✖ Existing data has 3 rows.\r\n✖ Assigned data has 5 rows.\r\nℹ Only vectors of size 1 are recycled.\r\n  113: <Anonymous>\r\n  112: signalCondition\r\n  111: signal_abort\r\n  110: cnd_signal\r\n  109: <Anonymous>\r\n  108: signalCondition\r\n  107: signal_abort\r\n  106: abort\r\n  105: stop_vctrs\r\n  104: stop_recycle_incompatible_size\r\n  103: vec_recycle\r\n  101: vectbl_recycle_rhs_rows\r\n  100: tbl_subassign\r\n   99: [[<-.tbl_df\r\n   97: renderTable [D:/MyData/Application/TEST_RUN_APP.R#72]\r\n   96: func\r\n   83: renderFunc\r\n   82: output$table\r\n    1: runApp\r\n"]
+[1,"\nShiny application successfully stopped.\n\n"]

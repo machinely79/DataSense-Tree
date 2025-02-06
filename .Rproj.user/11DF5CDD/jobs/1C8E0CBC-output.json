@@ -1,0 +1,5 @@
+[1,"=> library(shiny); runApp('test_nebitan.R')\n\n"]
+[2,"\r\nListening on http://127.0.0.1:3227\r\n"]
+[2,"Warning: Error in data.frame: arguments imply differing number of rows: 5, 0\r\n"]
+[2,"  99: stop\r\n  98: data.frame\r\n  97: renderTable [D:/MyData/Application/test_nebitan.R#108]\r\n  96: func\r\n  83: renderFunc\r\n  82: output$selected_values_table\r\n   1: runApp\r\n"]
+[1,"\nShiny application successfully stopped.\n\n"]

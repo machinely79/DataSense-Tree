@@ -1,0 +1,4 @@
+[1,"=> library(shiny); runApp('test_nebitan.R')\n\n"]
+[2,"\r\nListening on http://127.0.0.1:5113\r\n"]
+[2,"Warning: Error in renderUI: object 'selected_prescript_data' not found\r\n  100: is.data.frame\r\n   99: colnames\r\n   97: renderUI [D:/MyData/Application/test_nebitan.R#116]\r\n   96: func\r\n   83: renderFunc\r\n   82: output$input_generators\r\n    1: runApp\r\n"]
+[1,"\nShiny application successfully stopped.\n\n"]

@@ -1,0 +1,8 @@
+[1,"=> library(shiny); runApp('run.R')\n\n"]
+[2,"Warning message:\r\npackage 'shiny' was built under R version 4.2.3 \r\n"]
+[2,"Warning: package 'shinythemes' was built under R version 4.2.1\r\nWarning: package 'plotly' was built under R version 4.2.3\r\nLoading required package: ggplot2\r\n"]
+[2,"\r\nAttaching package: 'plotly'\r\n\r\nThe following object is masked from 'package:ggplot2':\r\n\r\n    last_plot\r\n\r\nThe following object is masked from 'package:stats':\r\n\r\n    filter\r\n\r\nThe following object is masked from 'package:graphics':\r\n\r\n    layout\r\n\r\n"]
+[2,"Warning: package 'htmlwidgets' was built under R version 4.2.1\r\nWarning: package 'IRdisplay' was built under R version 4.2.3\r\nWarning: package 'shinyjs' was built under R version 4.2.3\r\n\r\nAttaching package: 'shinyjs'\r\n\r\nThe following object is masked from 'package:shiny':\r\n\r\n    runExample\r\n\r\nThe following objects are masked from 'package:methods':\r\n\r\n    removeClass, show\r\n\r\nWarning: package 'bslib' was built under R version 4.2.1\r\n"]
+[2,"\r\nAttaching package: 'bslib'\r\n\r\nThe following object is masked from 'package:utils':\r\n\r\n    page\r\n\r\nWarning: package 'reactable' was built under R version 4.2.1\r\nWarning: package 'flexdashboard' was built under R version 4.2.3\r\n"]
+[2,"\r\nListening on http://127.0.0.1:5619\r\n"]
+[1,"\nShiny application successfully stopped.\n\n"]

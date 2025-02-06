@@ -1,0 +1,281 @@
+/* ----------------nav bar menu ------------------*/
+.navbar.navbar-default {
+    background-color: #b2aee314 !important;
+}
+
+.navbar-brand {
+    color: #009899;
+}
+
+
+
+/* ----------------FOR REACTABLE ------------------*/
+
+.reactable th {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+
+/* ---------------   FOR NAVBAR ------------------------- */
+
+.navbar {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 9999;
+}
+
+.navbar ~ .container-fluid {
+  padding-top: 70px;
+}
+
+.dropdown-toggle {
+ padding-right: 2.0rem;
+ padding-left: 2.0rem;
+  
+}
+
+
+
+/* ---------------   FOR sidebarPanel -  PAGE DATA------------------------- */
+/* style added in ui.R
+
+/* ----------------- FOR NAVBAR LIST- PAGE MODELS -------------*/
+
+.col-sm-4.well {
+  max-width: 250px;
+}
+
+/* ----------------- FOR SLIDERS PAGE MODELS -------------*/
+
+.col-sm-8 {
+  flex: 0 0 auto;
+  -webkit-flex: 0 0 auto;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
+  width: 65.7%;
+}
+
+.shiny-input-container:not(.shiny-input-container-inline) {
+  width: 300px;
+  max-width: 68%;
+}
+
+
+/* ----------------- FOR CUSTOM ALERTIS -------------*/
+
+#custom-alert {
+  padding: 10px;
+  background-color: #EEE3CB;
+  border: 1px solid #9BABB8;
+  border-radius: 4px;
+  color: #967E76;
+}
+
+
+
+/* ---------------FOR ABSOLUTE PANEL PAGE MODELS --------------- */
+#controls {
+  /* Appearance */
+  background-color: #16525e;
+  padding: 0 20px 20px 20px;
+  cursor: move;
+  /* Fade out while not hovering */
+  opacity: 0.90;
+  zoom: 0.9;
+  transition: opacity 500ms 0.5s;
+  color: #a4b3b6; 
+}
+#controls:hover {
+  /* Fade in while hovering */
+  opacity: 0.95;
+  transition-delay: 0;
+}
+
+
+
+#controls2 {
+  /* Appearance */
+  background-color: #16525e;
+  padding: 0 20px 20px 20px;
+  cursor: move;
+  /* Fade out while not hovering */
+  opacity: 0.90;
+  zoom: 0.9;
+  transition: opacity 500ms 0.5s;
+  color: #a4b3b6; 
+}
+#controls2:hover {
+  /* Fade in while hovering */
+  opacity: 0.95;
+  transition-delay: 0;
+}
+
+/* U vašem CSS fajlu ili bloku stila u Shiny aplikaciji */
+.panel-scroll-vertical {
+  overflow-y: auto; /* Dodaje vertikalnu scroll traku */
+  max-height: 100%; /* Osigurava da panel ne pređe visinu ekrana */
+}
+
+
+/* ---------------FOR DECISION TREE PAGE MODELS --------------- */
+              /*  some stilization is on UI */
+
+#myMainPanel {
+  
+background-color: white;
+  
+}
+
+#tree_plot {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+/* --------------RulesTable - Page Predictions----------   */
+
+#rulesTable {
+  border-collapse: collapse; /* Dodajte ovo kako biste spojili linije */
+}
+
+/* Stil za header */
+#rulesTable thead th {
+  border-bottom: 3px solid #387a87;
+  white-space: nowrap; 
+  overflow: hidden; 
+  text-overflow: ellipsis; 
+  border-right: 1px solid #1b3041; 
+  color: #a4b3b6;
+}
+
+
+
+/* Stil za sve ćelije u tabeli */
+#rulesTable td {
+  white-space: nowrap; 
+  overflow: hidden; 
+  text-overflow: ellipsis; 
+  border-right: 1px solid #1b3041; 
+  color: #a4b3b6;
+}
+
+
+
+/* Dodajte stil za celu tabelu */
+#rulesTable {
+  width: auto; /* Automatsko širenje tabele na osnovu sadržaja */
+  table-layout: auto; /* Automatsko širenje tabele na osnovu sadržaja */
+}
+
+
+
+
+/* --------------previewTable - Page Data----------   */
+
+/* Stil za header */
+.preview-table thead th {
+  border-bottom: 3px solid #387a87;
+  white-space: nowrap; 
+  overflow: hidden; 
+  text-overflow: ellipsis; 
+  border-right: 1px solid #1b3041; 
+  color: #a4b3b6;
+}
+
+/* Stil za sve ćelije u tabeli */
+.preview-table td {
+  white-space: nowrap; 
+  overflow: hidden; 
+  text-overflow: ellipsis; 
+  border-right: 1px solid #1b3041; 
+  color: #a4b3b6;
+}
+
+/* Dodajte stil za celu tabelu */
+.preview-table {
+  width: auto; /* Automatsko širenje tabele na osnovu sadržaja */
+  table-layout: auto; /* Automatsko širenje tabele na osnovu sadržaja */
+}
+
+
+
+/* --------------previewTable_pred - Page Data----------   */
+
+/* Stil za header */
+.preview-table-pred thead th {
+  border-bottom: 3px solid #387a87;
+  white-space: nowrap; 
+  overflow: hidden; 
+  text-overflow: ellipsis; 
+  border-right: 1px solid #1b3041; 
+  color: #a4b3b6;
+}
+
+
+/* Stil za sve ćelije u tabeli */
+.preview-table-pred td {
+  white-space: nowrap; 
+  overflow: hidden; 
+  text-overflow: ellipsis; 
+  border-right: 1px solid #1b3041; 
+  color: #a4b3b6;
+}
+
+/* Stil za cijelu tabelu */
+.preview-table-pred {
+  width: auto; /* Automatsko širenje tabele na osnovu sadržaja */
+  table-layout: auto; /* Automatsko širenje tabele na osnovu sadržaja */
+}
+
+
+/* --------------complexity_parameter table - Page traning apsolute panel----------*/
+
+
+
+
+/*  --------------ProgressBar - Page Data---------- */
+
+#file_progress > div {
+  color: #1b3041;
+  background-color: #7bc0ce;
+}
+
+#file_pred_progress > div {
+  color: #1b3041;
+  background-color: #7bc0ce;
+}
+
+/* -----------------------all dropdown items on nav bar --------------------------  */ 
+
+.dropdown-item.active, .dropdown-menu > li > a.active, .dropdown-item:active, .dropdown-menu > li > a:active {
+   
+    background-color: #0a5f70;
+    text-decoration: none;
+}
+
+
+.nav-pills .nav-link.active, .nav-pills .nav-tabs > li > a.active, .nav-pills > li > a.active, .nav-pills ul.nav.navbar-nav > li > a.active, .nav-pills .show > .nav-link, .nav-pills .in > .nav-link, .nav-pills .nav-tabs > li.show > a, .nav-pills .nav-tabs > li.in > a, .nav-pills > li.show > a, .nav-pills > li.in > a, .nav-pills ul.nav.navbar-nav > li.show > a, .nav-pills ul.nav.navbar-nav > li.in > a {
+  background-color: #0a5f70;
+  
+}
+
+
+/* -----------------------material Switch button - Training Page --------------------------  */ 
+
+.bg-primary {
+    background-color: #7bc0ce !important;
+}
+
+
+
+
+/* --------------PredictionsTable - Page Predictions----------   */
+
+

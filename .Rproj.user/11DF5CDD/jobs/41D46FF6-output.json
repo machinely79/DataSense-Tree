@@ -1,0 +1,6 @@
+[1,"=> library(shiny); runApp('test_nebitan.R')\n\n"]
+[2,"Warning message:\r\npackage 'shiny' was built under R version 4.2.3 \r\n"]
+[2,"Warning: package 'reactable' was built under R version 4.2.1\r\n"]
+[2,"Warning: package 'shinyjs' was built under R version 4.2.3\r\n\r\nAttaching package: 'shinyjs'\r\n\r\nThe following object is masked from 'package:shiny':\r\n\r\n    runExample\r\n\r\nThe following objects are masked from 'package:methods':\r\n\r\n    removeClass, show\r\n\r\n"]
+[2,"\r\nListening on http://127.0.0.1:5640\r\n"]
+[1,"\nShiny application successfully stopped.\n\n"]
