@@ -2,7 +2,7 @@
 
 **Version:** 0.1.0-beta
 
-**DataSense-Tree** is an interactive web application (currently in beta) that enables easy training and testing of decision tree models, data analysis, testing different prediction scenarios, and making predictions on new datasets.
+**DataSense-Tree** is an interactive web application (currently in beta) that enables easy training and testing of decision tree models, data analysis, testing different prediction scenarios, and making predictions on new datasets. The application uses **Recursive Partitioning and Regression Trees** for building decision tree models.
 
 ### Features
 
@@ -12,7 +12,9 @@
    ![Basic Statistics](statistics_table_screen.png)
 
 
-
+#### 2. **Training and Testing the Model** 🧑‍🏫
+   Interactively select and visualize the best decision tree model, train it, and test it to achieve optimal results for your dataset.
+   ![Model Training](model_train_screen.png)
 
 
 
