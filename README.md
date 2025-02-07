@@ -7,24 +7,33 @@
 ### Features
 
 #### 1. **Import Data** 
+
    Import your data (csv, excel) and begin discovering patterns.
    
    ![Import Your Data](images/preview_data_screen.png)
 
 
 #### 2. **Basic Statistics** 
+
    Review the basic statistics of your dataset, including metrics like mean, min/max, and other parameters.
    
    ![Basic Statistics](images/statistics_table_screen.png)
 
 
 #### 3. **Training and Testing the Model** 
+
    Interactively train, test, select, and visualize the best-fit classification or regression decision tree model for your dataset.
    
    ![Model Training](images/model_train_screen.png)
 
 
+#### 4. **Import Data for Prediction** 
 
+   Import the data for which you want to make predictions.
+   
+   ![Import Prediction Data](images/insert_pred_data_screen.png)
+
+   
 
 ### Technologies Used 🛠️
 
