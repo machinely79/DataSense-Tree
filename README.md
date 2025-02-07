@@ -14,8 +14,9 @@
 
 
 #### 2. **Training and Testing the Model** 🧑‍🏫
-   Interactively select and visualize the best decision tree model, train it, and test it to achieve optimal results for your dataset.
-   ![Model Training](model_train_screen.png)
+   Interactively train, test, select, and visualize the best-fit classification or regression decision tree model for your dataset.
+   
+   ![Model Training](images/model_train_screen.png)
 
 
 
