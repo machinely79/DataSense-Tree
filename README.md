@@ -9,8 +9,8 @@
 #### 1. **Basic Statistics** 📊
    Review the basic statistics of your dataset, including metrics like mean, standard deviation, and other statistics parameters.
    
-   ![Basic Statistics](https://github.com/machinely79/DataSense-Tree/tree/main/images/statistics_table_screen.png)
-                      
+   ![Basic Statistics](images/statistics_table_screen.png)
+
 
 
 #### 2. **Training and Testing the Model** 🧑‍🏫
