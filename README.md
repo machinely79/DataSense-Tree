@@ -39,7 +39,11 @@
    
    ![Get Predictions](images/predictions_table_screen.png)
 
+#### 6. **Test Various Predictive Scenarios**
 
+   Test different predictive scenarios by changing the values of influential features and see how those changes impact the target outcome.
+   
+   ![Test Scenarios](images/predictive_scenarios_screen.png)
    
 
 ### Technologies Used 🛠️
