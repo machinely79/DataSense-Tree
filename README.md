@@ -46,6 +46,10 @@
    ![Test Scenarios](images/predictive_scenarios_screen.png)
    
 
+
+The app is user-friendly, and all features are intuitively designed to help you get started quickly.
+
+
 ### Technologies Used 🛠️
 
 This application is built using the following technologies and packages:
