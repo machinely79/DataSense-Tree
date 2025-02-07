@@ -6,14 +6,19 @@
 
 ### Features
 
-#### 1. **Basic Statistics** 📊
-   Review the basic statistics of your dataset, including metrics like mean, standard deviation, and other statistics parameters.
+#### 1. **Import Data** 
+   Import your data (csv, excel) and begin discovering patterns.
+   
+   ![Import Your Data](images/preview_data_screen.png)
+
+
+#### 2. **Basic Statistics** 
+   Review the basic statistics of your dataset, including metrics like mean, min/max, and other parameters.
    
    ![Basic Statistics](images/statistics_table_screen.png)
 
 
-
-#### 2. **Training and Testing the Model** 🧑‍🏫
+#### 3. **Training and Testing the Model** 
    Interactively train, test, select, and visualize the best-fit classification or regression decision tree model for your dataset.
    
    ![Model Training](images/model_train_screen.png)
