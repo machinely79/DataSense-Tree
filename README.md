@@ -4,6 +4,25 @@
 
 **DataSense-Tree** is an interactive web application (currently in beta) that enables easy training and testing of decision tree models, data analysis, testing different prediction scenarios, and making predictions on new datasets. The application uses **Recursive Partitioning and Regression Trees** for building decision tree models.
 
+## Features 🌟
+
+✅ **Interactive Decision Tree Training & Testing** – Train and test decision tree models using **Recursive Partitioning and Regression Trees**.  
+
+✅ **Data Import** – Supports CSV and Excel file formats for easy data loading.  
+
+✅ **Basic Statistics** – View essential dataset metrics like mean, min/max, and distributions.  
+
+✅ **Model Visualization** – Interactive visualization of classification or regression trees.  
+
+✅ **Predictions on New Data** – Load datasets and generate predictions using trained models.  
+
+✅ **Testing Predictive Scenarios** – Modify input features to analyze different prediction outcomes.  
+
+✅ **Export Results** – Save generated predictions for further analysis.  
+
+✅ **User-Friendly Interface** – Intuitive design for quick and easy model training. 
+
+
 ### Getting Started
 
 #### 1. **Import Data** 
